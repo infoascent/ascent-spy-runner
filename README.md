@@ -1,4 +1,3 @@
 # ascent-spy-runner
 
-Lanceur nocturne du scanner Ascent Spy. Le code est privé ; ce repo public ne contient que le workflow
-(minutes GitHub illimitées pour un repo public). Les journaux n'affichent que des compteurs.
+Arrêté le 2026-10-16 à la demande de Pierre : plus aucun scan automatique (GitHub sans risque, offres gratuites préservées).
